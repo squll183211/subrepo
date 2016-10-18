@@ -1,2 +1,3 @@
 git subtree add --prefix subrepo https://github.com/squll183211/subrepo.git master --squash
 git subtree pull --prefix subrepo https://github.com/squll183211/subrepo master --squash
+git subtree push --prefix subrepo https://github.com/squll183211/subrepo master --squash
