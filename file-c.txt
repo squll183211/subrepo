@@ -1,0 +1,1 @@
+git subtree add --prefix subrepo https://github.com/squll183211/subrepo.git master --squash
